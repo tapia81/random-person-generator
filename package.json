@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  },
+
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
